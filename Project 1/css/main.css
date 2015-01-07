@@ -1,0 +1,26 @@
+body {
+	max-width: 1024px;
+	font-family: Kalimati, Verdana, sans-serif;
+	font-size: 16px;
+	color: #666666;
+	line-height: 2.0;
+}
+
+h1 {
+	font-size: 48px;
+	padding: 25px;
+}
+
+h2 {
+	color: #F07C17;
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 24px;
+}
+
+.features {
+	border: 1px solid #CCCCCC;
+	padding: 30px;
+	margin-top: 25px;
+}
